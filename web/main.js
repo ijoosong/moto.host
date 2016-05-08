@@ -3,14 +3,19 @@ var FileInput = require('react-file-input');
 
 var App = React.createClass({
   render: function () {
-    return <div>
-      <h1>clicked {this.state.n} times</h1>
-      <button onClick={this.handleClick}>click me!</button>
-      <FileInput name="myImage"
-                 accept=".png,.jpg,.gif"
-                 placeholder="My Image"
-                 className="inputClass"
-                 onChange={this.handleChange} />
+    return <div className="container">
+      <h1>moto.host</h1>
+      <h3>Your Moble Tour Host</h3>
+      <div className="filePicker">
+        <form>
+        Click here to take/select a photo!
+        <FileInput name="myImage"
+                   accept=".png,.jpg,.gif"
+                   placeholder="My Image"
+                   className="inputClass"
+                   onChange={this.handleChange} />
+        </form>
+      </div>
     </div>
   },
 
