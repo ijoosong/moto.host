@@ -12,6 +12,25 @@ import {
 } from 'react-native';
 
 class moto extends Component {
+
+  onPhotoCapture() {
+    var accessToken = 'get it';
+    fetch('https://api.clarifai.com/v1/tag', {
+      method: 'POST',
+      headers: {
+        'Authorization': 'Bearer ' + accessToken,
+      },
+      body: JSON.stringify({url: 'THE IMAGE URL'})
+    })
+    .then((response) => response.json())
+    .then((responseData) => {
+      console.log(
+        'Response Body -> ' + JSON.stringify(responseData.body)
+      )
+    })
+    .done();
+  }
+
   render() {
     return (
       <View style={styles.container}>
