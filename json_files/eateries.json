@@ -1,7 +1,4 @@
-{
-    "eateries": {
-        "@xmlns": "http://www.nycgovparks.org/bigapps/desc/DPR_Eateries_001.txt", 
-        "facility": [
+[
             {
                 "name": "Central Park Food Cart", 
                 "location": "Southern entrance to Hecksher Playground", 
@@ -2856,5 +2853,3 @@
                 "type_name": "Fruit and Vegetable Cart"
             }
         ]
-    }
-}
