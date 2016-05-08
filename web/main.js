@@ -3,7 +3,7 @@ var FileInput = require('react-file-input');
 var axios = require('axios');
 var config = require('./config');
 var Info = require('./info');
-var watson = require('watson-developer-cloud');
+var watson = require('./node_modules/watson-developer-cloud');
 var fs = require('fs');
 
 var App = React.createClass({
@@ -91,8 +91,8 @@ var App = React.createClass({
 
   textToSpeech: function(words) {
     var text_to_speech = watson.text_to_speech({
-      username: 'username',
-      password: 'password',
+      username: 'c4effe4-5d59-4f85-a9c9-d4f19e3149ef',
+      password: 'RvWTq4kxWmRY',
       version: 'v1'
     });
 
