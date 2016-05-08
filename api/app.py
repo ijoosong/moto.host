@@ -1,7 +1,8 @@
 from flask import Flask, jsonify
 from flask_pymongo import PyMongo
 from flask_restful import Api, Resource
-
+import urllib2
+import json
 
 app = Flask(__name__)
 app.config["MONGO_DBNAME"] = "moto"
@@ -46,12 +47,49 @@ class Index(Resource):
         return jsonify({"result": "you're at the index"})
 
 
+class Excerpt(Resource):
+    def get(self, search=None):
+        print search
+        url = "https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exlimit=1" \
+              "&explaintext&exintro&titles="+search+"&redirects=&formatversion=2"
+        response = urllib2.urlopen(url)
+        data = json.load(response)
+        extract = data['query']['pages'][0]['extract']
+        out = extract.split('.')[0::4]
+        x = []
+        for l in out:
+            l = l + '. '
+            x.append(l.replace("\n", " "))
+        out = ''.join(x)
+        out = remove_text_inside_brackets(out)
+        return jsonify({"result": out})
+
+
+
+def remove_text_inside_brackets(t, brackets="()[]"):
+    count = [0] * (len(brackets) // 2) # count open/close brackets
+    saved_chars = []
+    for character in t:
+        for i, b in enumerate(brackets):
+            if character == b: # found bracket
+                kind, is_close = divmod(i, 2)
+                count[kind] += (-1)**is_close # `+1`: open, `-1`: close
+                if count[kind] < 0: # unbalanced bracket
+                    count[kind] = 0
+                break
+        else: # character is not a bracket
+            if not any(count): # outside brackets
+                saved_chars.append(character)
+    return ''.join(saved_chars)
+
+
 api = Api(app)
 api.add_resource(Index, "/", endpoint="index")
 api.add_resource(Landmarks, "/api/landmarks", endpoint="landmarks")
 api.add_resource(Landmarks, "/api/landmarks/<list:gps>", endpoint="gps")
 api.add_resource(Landmarks, "/api/landmarks/name/<string:name>", endpoint="lname")
 api.add_resource(Eateries, "/api/eateries/<string:name>", endpoint="ename")
+api.add_resource(Excerpt, "/api/excerpt/<string:search>", endpoint="search")
 
 if __name__ == "__main__":
     app.run(debug=True)
