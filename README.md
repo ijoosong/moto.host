@@ -23,3 +23,13 @@ React Native Android App, gets information from captured photo, sends to Clarifa
 - [Cassidy Williams](http://cassidoo.co)
 - [Joseph Song](http://github.com/ijoosong)
 - [Timotius Sitorus](https://timsitorus.com/)
+
+**User Information:**
+ In order to run the app, there are several moving pieces you have to initialize.  
+- First there is a flask backend with NYC Open Data on Mongodb.  The json files must be migrated to a Mongodb database using these while in moto/json_files:
+ * mongoimport --db moto --collection eateries --drop --file eateries.json --jsonArray
+ * mongoimport --db moto --collection landmarks --drop --file condensed_landmarks.json --jsonArray
+ * mongo
+ * use moto
+ * db.landmarks.ensureIndex({location:"2dsphere"})
+- Second, you run the phone app connecting to the backend.
