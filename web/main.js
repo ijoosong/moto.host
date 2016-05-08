@@ -8,31 +8,27 @@ var App = React.createClass({
     console.log('Selected file:', event.target.files[0]);
   },
   onPhotoCapture: function(event) {
-    imageBytes = event.target.files[0];
-    var accessToken = this.getClarifaiAccessToken();
+    var imageBytes = event.target.files[0];
+    var accessToken = 'FSQGpNPD3ifaWTwwCK8OIHFHJuJQVJ';
     var url = 'https://api.clarifai.com/v1/tag';
-    var data = {'encoded_image': imageBytes};
+    //var data = {'encoded_image': imageBytes};
+    var data = {'url': 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg'};
+    var self = this;
     return axios.post(url, data, {
       'headers': {
         'Authorization': 'Bearer ' + accessToken
       },
       'content-type': 'application/x-www-form-urlencoded'
     })
-    .then(function(r){
-      console.log(r);
+    .then(function(r) {
+      console.log(r.data.results[0].result.tag.classes);
     },
-    function(){
+    function() {
       console.log('Sorry, something is wrong.');
     });
-    /*
-    .then((response) => response.json())
-    .then((responseData) => {
-      console.log(
-        'Response Body -> ' + JSON.stringify(responseData.body)
-      );
-    })
-    .done();*/
   },
+
+  // not being called
   getClarifaiAccessToken: function() {
     var clientId = config.get('clientId');
     var clientSecret = config.get('clientSecret');
@@ -51,6 +47,8 @@ var App = React.createClass({
       ]
     }).then(function(r) {
       console.log(r);
+      // this will expire, fix later
+      localStorage.setItem('accessToken', r.access_token);
     },
     function(err) {
       console.log(err);
@@ -72,6 +70,7 @@ var App = React.createClass({
     }
     return str.join('&');
   },
+
   parseClarifaiResponse: function(resp) {
     var tags = [];
     if (resp.status_code === 'OK') {
