@@ -1,5 +1,6 @@
 'use strict';
 import React from 'react';
+import axios from 'axios';
 import {
   AppRegistry,
   Component,
@@ -27,6 +28,9 @@ class moto extends Component {
     })
     .then(function(r){
       console.log(r);
+    },
+    function(){
+      console.log('Sorry, something is wrong.');
     });
     /*
     .then((response) => response.json())
@@ -39,10 +43,9 @@ class moto extends Component {
   }
 
   takePicture() {
-    console.log("Hello");
     this.camera.capture()
       .then((data) => {
-        this.onPhotoCapture(data).bind(this);
+        this.onPhotoCapture(data);
       })
       .catch(err => console.error(err));
   }
