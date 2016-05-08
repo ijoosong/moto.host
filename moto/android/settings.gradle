@@ -1,0 +1,3 @@
+rootProject.name = 'moto'
+
+include ':app'
