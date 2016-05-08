@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, url_for, redirect, request
+from flask import Flask, jsonify, url_for, redirect
 from flask_pymongo import PyMongo
 from flask_restful import Api, Resource
 
