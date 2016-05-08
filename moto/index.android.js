@@ -13,6 +13,8 @@ import {
   Image
 } from 'react-native';
 import Camera from 'react-native-camera';
+import watson from 'watson-developer-cloud';
+import fs from 'fs';
 
 class moto extends Component {
 
@@ -54,6 +56,46 @@ class moto extends Component {
     return axios.post(url, data);
   }
 
+  function parseClarifaiResponse(resp) {
+    var tags = [];
+    if (resp.status_code === 'OK') {
+      var results = resp.results;
+      tags = results[0].result.tag.classes;
+    } else {
+      console.log('Sorry, something is wrong.');
+    }
+    return tags;
+  }
+
+  generateText(arr) {
+    var ret = '';
+    if (arr.indexOf('landmark') !== -1 && arr.indexOf('building') !== -1) {
+      // TODO: get information about landmarks or buildings here.
+    } else {
+      ret = 'That\'s a lovely ' + arr[0] + ' there, unfortunately we have no information about it beyond that.';
+    }
+
+    return ret;
+  }
+
+  textToSpeech(words) {
+    var text_to_speech = watson.text_to_speech({
+      username: 'username',
+      password: 'password',
+      version: 'v1'
+    });
+
+    var params = {
+      text: words,
+      voice: 'en-US_AllisonVoice',
+      accept: 'audio/wav'
+    };
+
+    // Pipe the synthesized text to a file
+    // TODO: get this somewhere for the headphones
+    text_to_speech.synthesize(params).pipe(fs.createWriteStream('output.wav'));
+  }
+
   takePicture() {
     this.camera.capture()
       .then((data) => {
@@ -71,7 +113,7 @@ class moto extends Component {
           aspect={Camera.constants.Aspect.fill}
           captureTarget={Camera.constants.CaptureTarget.disk}>
         </Camera>
-        <TouchableOpacity 
+        <TouchableOpacity
             style={styles.actionButton}
             onPress={this.takePicture.bind(this)}>
             <Image source={require('./img/camera-icon.png')} />
