@@ -2,6 +2,8 @@ var React = require('react');
 var FileInput = require('react-file-input');
 var axios = require('axios');
 var config = require('./config');
+var watson = require('watson-developer-cloud');
+var fs = require('fs');
 
 var App = React.createClass({
   handleChange: function(event) {
@@ -81,6 +83,24 @@ var App = React.createClass({
     }
     return tags;
   },
+
+    textToSpeech(words) {
+    var text_to_speech = watson.text_to_speech({
+      username: 'username',
+      password: 'password',
+      version: 'v1'
+    });
+
+    var params = {
+      text: words,
+      voice: 'en-US_AllisonVoice',
+      accept: 'audio/wav'
+    };
+
+    // Pipe the synthesized text to a file
+    // TODO: get this somewhere for the headphones
+    text_to_speech.synthesize(params).pipe(fs.createWriteStream('output.wav'));
+  }
 
   render: function () {
     return <div className="container">
