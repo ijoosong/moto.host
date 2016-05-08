@@ -32,3 +32,8 @@ node_modules
 # Optional REPL history
 .node_repl_history
 .idea
+
+*.pyc
+
+bundle.js
+config.js

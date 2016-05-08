@@ -1,2 +1,6 @@
 xmltodict
 pymongo
+flask
+flask_pymongo
+flask_restful
+sqlalchemy

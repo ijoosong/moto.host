@@ -1,0 +1,22 @@
+Geolocation:
+Look in - response['excerpt'] - to get you an extract.
+
+Central Park:
+http://224ca466.ngrok.io/api/landmarks/-73.972+40.768
+
+Empire State Building:
+http://224ca466.ngrok.io/api/landmarks/-73.985+40.748
+
+
+Tags:
+Central Ridgewood Historic District:
+http://224ca466.ngrok.io/api/landmarks/name/Central
+
+Hunters Point Historic District:
+http://224ca466.ngrok.io/api/landmarks/name/Point
+
+Restaurant:
+Shake Shack:
+http://224ca466.ngrok.io/api/eateries/Shake
+
+Gives location and name.
