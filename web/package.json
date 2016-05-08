@@ -17,7 +17,7 @@
     "reactify": "^1.1.1",
     "uglify-js": "^2.4.24",
     "watchify": "^3.2.3",
-    "watson-developer-cloud": ""
+    "watson-developer-cloud": "1.4.1"
   },
   "license": "public domain",
   "devDependencies": {
