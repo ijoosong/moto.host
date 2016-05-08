@@ -1,4 +1,5 @@
 var React = require('react');
+var axios = require('axios');
 var watson = require('./node_modules/watson-developer-cloud');
 var fs = require('fs');
 
@@ -8,6 +9,11 @@ var Info = React.createClass({
   },
   getInfo: function() {
     if (this.props.dataset === 'buildings') {
+      axios.get('http://224ca466.ngrok.io/api/landmarks/-73.985+40.748')
+        .then(function(resp){
+          console.log(resp.excerpt);
+          setState({info: resp.excerpt});
+        });
     } else if (this.props.dataset === 'landmarks') {
     } else if (this.props.dataset === 'parks') {
     } else {
