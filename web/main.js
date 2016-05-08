@@ -2,8 +2,12 @@ var React = require('react');
 var FileInput = require('react-file-input');
 var axios = require('axios');
 var config = require('./config');
+var Info = require('./info');
 
 var App = React.createClass({
+  getInitialState: function() {
+    return {dataset: 'unknown', location: 'unknown'};
+  },
   handleChange: function(event) {
     console.log('Selected file:', event.target.files[0]);
   },
@@ -12,7 +16,7 @@ var App = React.createClass({
     var accessToken = 'FSQGpNPD3ifaWTwwCK8OIHFHJuJQVJ';
     var url = 'https://api.clarifai.com/v1/tag';
     //var data = {'encoded_image': imageBytes};
-    var data = {'url': 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg'};
+    var data = {'url': 'http://sametomorrow.com/blog/wp-content/uploads/2012/10/empire-state-building-05.jpg'};
     var self = this;
     return axios.post(url, data, {
       'headers': {
@@ -21,13 +25,12 @@ var App = React.createClass({
       'content-type': 'application/x-www-form-urlencoded'
     })
     .then(function(r) {
-      console.log(r.data.results[0].result.tag.classes);
+      self.determineDataset(r.data.results[0].result.tag.classes);
     },
     function() {
       console.log('Sorry, something is wrong.');
     });
   },
-
   // not being called
   getClarifaiAccessToken: function() {
     var clientId = config.get('clientId');
@@ -70,18 +73,19 @@ var App = React.createClass({
     }
     return str.join('&');
   },
-
-  parseClarifaiResponse: function(resp) {
-    var tags = [];
-    if (resp.status_code === 'OK') {
-      var results = resp.results;
-      tags = results[0].result.tag.classes;
+  determineDataset: function(tags) {
+    var dset = '';
+    if (tags.indexOf('architecture') !== -1 || tags.indexOf('skyscraper') !== -1 || tags.indexOf('building') !== -1) {
+      dset = 'buildings';
+    } else if (tags.indexOf('landmark') !== -1) {
+      dset = 'landmarks';
+    } else if (tags.indexOf('outdoors') !== -1 || tags.indexOf('nature') !== -1) {
+      dset = 'parks';
     } else {
-      console.log('Sorry, something is wrong.');
+      dset = tags[0];
     }
-    return tags;
+    this.setState({dataset:dset});
   },
-
   render: function () {
     return <div className="container">
       <h1>moto.host</h1>
@@ -96,6 +100,7 @@ var App = React.createClass({
                    onChange={this.onPhotoCapture} />
         </form>
       </div>
+      <Info location={this.state.location} dataset={this.state.dataset} />
     </div>
   }
 });
