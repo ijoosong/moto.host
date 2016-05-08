@@ -1,0 +1,3038 @@
+<?xml version="1.0"?>
+<eateries xmlns="http://www.nycgovparks.org/bigapps/desc/DPR_Eateries_001.txt">
+<facility>
+<name>Central Park Food Cart</name>
+<location>Southern entrance to Hecksher Playground</location>
+<park_id>M010</park_id>
+<start_date>2014-04-17</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>M10-W61-HP-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>
+At the entrance to the path leading to the Pond, East Drive and E 61st Street
+</location>
+<park_id>M010</park_id>
+<start_date>2014-01-01</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>M10-61-ED-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>
+At the intersection of paths, east side of East Drive, at approximately East 70 Street
+</location>
+<park_id>M010</park_id>
+<start_date>2013-03-08</start_date>
+<end_date>2016-12-31</end_date>
+<description/>
+<permit_number>M10-70-ED-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>
+Central Park Mall Area, northwest side of the Bandshell
+</location>
+<park_id>M010</park_id>
+<start_date>2010-02-23</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M10-72-1A-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>Mall Area, southwest of Bandshell</location>
+<park_id>M010</park_id>
+<start_date>2010-10-06</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M10-72-1B-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>West 72 Street path, west of Daniel Webster</location>
+<park_id>M010</park_id>
+<start_date>2010-03-25</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M10-72-3-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>North side of 72 Street at Cherry Hill</location>
+<park_id>M010</park_id>
+<start_date>2011-02-12</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M10-72-6-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>East Drive and 72 Street</location>
+<park_id>M010</park_id>
+<start_date>2010-09-28</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M10-72-ED-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>West Drive, between West 74 and West 75 streets</location>
+<park_id>M010</park_id>
+<start_date>2010-02-18</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M10-74-WD-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>
+East of West Drive, West 81 Street path to Delacorte Theater
+</location>
+<park_id>M010</park_id>
+<start_date>2012-10-05</start_date>
+<end_date>2016-12-31</end_date>
+<description/>
+<permit_number>M10-81-WD-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>
+East 84 Street, pedestrian path, west side of East Drive
+</location>
+<park_id>M010</park_id>
+<start_date>2010-02-18</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M10-84-ED-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>Near zoo entrance at East 62nd Street</location>
+<park_id>M010</park_id>
+<start_date>2010-04-28</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M10-E62-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>West 109th Street, West of Malcolm X Boulevard</location>
+<park_id>M010</park_id>
+<start_date>2014-03-24</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>M10-W109-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>Northwest corner of Heckscher ballfields</location>
+<park_id>M010</park_id>
+<start_date>2010-04-24</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M10-W65-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>East side of West Drive at West 96 Street</location>
+<park_id>M010</park_id>
+<start_date>2013-01-01</start_date>
+<end_date>2016-12-31</end_date>
+<description/>
+<permit_number>M10-W67-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>
+The northeast corner of Central Park West and West 85th Street
+</location>
+<park_id>M010</park_id>
+<start_date>2013-02-01</start_date>
+<end_date>2016-12-31</end_date>
+<description/>
+<permit_number>M10-W85-GL-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>Central Park West and West 93rd Street</location>
+<park_id>M010</park_id>
+<start_date>2013-02-16</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>M10-W93-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>Central Park West and West 96 Street</location>
+<park_id>M010</park_id>
+<start_date>2013-02-16</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>M10-W96-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Battery Park Food Cart</name>
+<location>8 Various Locations</location>
+<park_id>M005</park_id>
+<start_date>2014-06-14</start_date>
+<end_date>2015-06-15</end_date>
+<description/>
+<permit_number>M5-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Riverside Park Food Cart</name>
+<location>Near the entrance to West 91 Street Playground</location>
+<park_id>M071</park_id>
+<start_date>2013-02-16</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>M71-W91-2C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Riverside Park Food Cart</name>
+<location>Northern end of West 96th Street Tennis</location>
+<park_id>M071</park_id>
+<start_date>2013-02-16</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>M71-W96-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Riverside Park Food Cart</name>
+<location>On Riverside Drive and West 151st Street</location>
+<park_id>M071</park_id>
+<start_date>2014-04-14</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>M72-W151-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>P.S. 143 Armstrong Playground Food Cart</name>
+<location>37th Avenue between 112th Street and 113th Street</location>
+<park_id>Q415</park_id>
+<start_date>2009-06-11</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>Q415-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Astoria Park Food Cart</name>
+<location>Astoria Park next to Field House</location>
+<park_id>Q004</park_id>
+<start_date>2013-04-16</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q4-3C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Frank O'connor Park Food Cart</name>
+<location>Broadway, between 78th Street and 79th Street</location>
+<park_id>Q098</park_id>
+<start_date>2009-05-08</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>Q98-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Food Cart</name>
+<location>North corner of Soccer Field #5</location>
+<park_id>Q099</park_id>
+<start_date>2013-06-03</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q99-(1)-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Food Cart</name>
+<location>Around the outer pathway of the Unisphere</location>
+<park_id>Q099</park_id>
+<start_date>2011-04-01</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q99-2-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Food Cart</name>
+<location>Eisenhower Promenade and Avenue of Commerce</location>
+<park_id>Q099</park_id>
+<start_date>2011-06-13</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q99-C-6G</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Food Cart</name>
+<location>
+Flushing Meadows Corona Park, the designated volleyball Area
+</location>
+<park_id>Q099</park_id>
+<start_date>2014-03-28</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q99-VB5C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Food Cart</name>
+<location>
+Flushing Meadows Corona Park, in the the designated volleyball area
+</location>
+<park_id>Q099</park_id>
+<start_date>2014-03-28</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q99-VBDC</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Food Cart</name>
+<location>
+Flushing Meadows Corona Park, in the the designated volleyball area
+</location>
+<park_id>Q099</park_id>
+<start_date>2014-03-28</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q99-VBEC</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Food Cart</name>
+<location>In the designated volleyball area</location>
+<park_id>Q099</park_id>
+<start_date>2014-04-28</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q99-VBFC</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Van Cortlandt Park Food Cart</name>
+<location>
+Near Paddleball courts at Broadway and West 241 Street
+</location>
+<park_id>X092</park_id>
+<start_date>2013-05-23</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X92-(11)-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Williamsbridge Oval Playground Food Cart</name>
+<location>Van Cortlandt Avenue East and Reservoir Oval East</location>
+<park_id>X104</park_id>
+<start_date>2013-06-28</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X104-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Pelham Bay Park Food Cart</name>
+<location>Outside playground #1, at Middleton Road</location>
+<park_id>X039</park_id>
+<start_date>2014-07-28</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>X39-1-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>St. James Park Food Cart</name>
+<location>
+Jerome Ave. between E. 191st Street and E. 193rd Street
+</location>
+<park_id>X044</park_id>
+<start_date>2014-04-18</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>X44-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Windmuller Park Food Cart</name>
+<location>52nd Street and 39th Road</location>
+<park_id>Q031</park_id>
+<start_date>2014-05-15</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q31-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Van Cortlandt Park Food Cart</name>
+<location>
+On Broadway between W. 240th St. and W. 263rd St., and by the swimming pool entrance
+</location>
+<park_id>X092</park_id>
+<start_date>2014-08-08</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>X92(13)-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>
+East side of Sheep Meadow at approximately East 66th Street
+</location>
+<park_id>M010</park_id>
+<start_date>2010-02-18</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M10-E66-SM-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Harlem River Park Food Cart</name>
+<location>East 128th Street and 3rd Avenue</location>
+<park_id>M039</park_id>
+<start_date>2010-07-02</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M39-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Maria Hernandez Pushcart</name>
+<location>Along Irving St., b/w Star and Suydam Streets</location>
+<park_id>B016</park_id>
+<start_date>2014-06-13</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>B16-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Pushcart</name>
+<location>
+Near northern intersection of Avenues of Progress and Commerce
+</location>
+<park_id>Q099</park_id>
+<start_date>2011-06-13</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q99-6-AC</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Corona Golf Playground Food Cart</name>
+<location>111th St. and 46th Ave.</location>
+<park_id>Q450</park_id>
+<start_date>2011-05-24</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q450-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Park Cafe East</name>
+<location>E. Kingsbridge Rd. and Fordham and Webster</location>
+<park_id>M159</park_id>
+<start_date>2011-07-28</start_date>
+<end_date>2016-03-31</end_date>
+<description/>
+<permit_number>X5-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Tweety's Mobile Food Truck</name>
+<location>E 172 St. Bw Morris and Teller Aves.</location>
+<park_id>X008</park_id>
+<start_date>2013-03-15</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X8-3MT</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Rose Hill Park Food Cart</name>
+<location>Corner of Fordham and Webster</location>
+<park_id>X042</park_id>
+<start_date>2011-07-21</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>X42-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>PS 100 Playground Trucks</name>
+<location>Theriot, Taylor and Story Aves.</location>
+<park_id>X159</park_id>
+<start_date>2011-08-23</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>X204-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Sakura Park Food Cart</name>
+<location>E. Side of Riverside Dr. and W. 122 St.</location>
+<park_id>M087</park_id>
+<start_date>2012-01-01</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>M87-W122-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>West Side of WD at W 62nd</location>
+<park_id>M010</park_id>
+<start_date>2012-03-01</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>M10-62-WD-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>Curbside of CPS and CPW</location>
+<park_id>M010</park_id>
+<start_date>2012-03-01</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>M10-59-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Riverside Park Food Cart</name>
+<location>W 158th St. Riverside Park</location>
+<park_id>M071</park_id>
+<start_date>2012-04-19</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>M72-W158-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Central Park Food Cart</name>
+<location>East End of Great Lawn, At East 82nd Street</location>
+<park_id>M010</park_id>
+<start_date>2013-03-08</start_date>
+<end_date>2016-12-31</end_date>
+<description/>
+<permit_number>M10-E82-GL-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Bloomingdale Park Food Cart</name>
+<location>Ramona Avenue and Lenevar Avenue</location>
+<park_id>R106</park_id>
+<start_date>2013-10-11</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>R106-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Hugh Grant Circle Food Cart</name>
+<location>
+East 177th Street, Wstchester Avenue, Virginia Avenue
+</location>
+<park_id>X025</park_id>
+<start_date>2013-02-21</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X25-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>YAKUBOV, GAVRIEL</name>
+<location>GRAVESEND BAY, 21 and CROPSEY</location>
+<park_id>B007</park_id>
+<start_date>2013-08-01</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>B007-1-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Prospect Park Parade Ground Cart</name>
+<location>South West Corner of baseball fields</location>
+<park_id>B073</park_id>
+<start_date>2012-03-21</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>B73-8-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Sunset Park Food Cart</name>
+<location>44th Street btw 5th and 7th Avenues</location>
+<park_id>B087</park_id>
+<start_date>2013-07-15</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>B087-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Prospect Park Mount Food Cart</name>
+<location>Grand Army Plaza</location>
+<park_id>B073</park_id>
+<start_date>2013-07-17</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>B159-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Riverside Park Cart</name>
+<location>West 148 Street and Riverside Park</location>
+<park_id>M071</park_id>
+<start_date>2014-01-01</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>M72-W148-1-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Williamsbridge Oval Park</name>
+<location>South corner of track</location>
+<park_id>X104</park_id>
+<start_date>2013-06-05</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X104-2-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Harris Park Cart</name>
+<location>Paul Avenue and 205 Street</location>
+<park_id>X136</park_id>
+<start_date>2013-07-11</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X136-C</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>ALEX LINDOWER PARK TRUCKS</name>
+<location>East 60th and Strickland</location>
+<park_id>B329</park_id>
+<start_date>2013-07-01</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>B329-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Food Cart</type_name>
+</facility>
+<facility>
+<name>Seth Low Park Mobile Food Truck</name>
+<location>Between Bay Parkway and Avenue P</location>
+<park_id>B100</park_id>
+<start_date>2011-05-03</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>B100-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>J.J. Byrne Memorial Park Mobile Food Truck</name>
+<location>
+4th Avenue to 5th Avenue, between 3rd Street and 5th Street
+</location>
+<park_id>B111</park_id>
+<start_date>2009-04-22</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>B111-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Red Hook Recreation Center Mobile Food Truck</name>
+<location>Bay Street between Henry and Clinton streets</location>
+<park_id>B126</park_id>
+<start_date>2014-06-27</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>B126-3MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Colonel Markus Playground Mobile Food Truck</name>
+<location>5th Street entrance off of Avenue and Ocean Park</location>
+<park_id>B128</park_id>
+<start_date>2011-03-15</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>B128-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Paul W. Kolbert Park Mobile Food Truck</name>
+<location>East 17 Street and East 18 Street</location>
+<park_id>B150</park_id>
+<start_date>2013-07-30</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>B150-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Coney Island Beach Mobile Food Truck</name>
+<location>
+Southern corner of Coney Island Avenue and Brightwater
+</location>
+<park_id>B169</park_id>
+<start_date>2014-01-01</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>B169-1-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Brooklyn Queens Expressway Mobile Food Truck</name>
+<location>corner of Columbia Terrace and Montague Street</location>
+<park_id>B222</park_id>
+<start_date>2010-07-13</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>B222-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Fox Playground Mobile Food Truck</name>
+<location>
+Avenue H and Avenue I between East 54th and East 55th streets
+</location>
+<park_id>B248</park_id>
+<start_date>2014-06-06</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>B248-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>William E. Kelly Park Mobile Food Truck</name>
+<location>Avenue S between East 14th and East 16th streets</location>
+<park_id>B157</park_id>
+<start_date>2011-03-15</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>B51-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Jackie Robinson Park Mobile Food Truck</name>
+<location>
+Bradhurst Avenue between West 145 and West 155 streets
+</location>
+<park_id>B294</park_id>
+<start_date>2013-04-19</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>M14-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Anibal Aviles Playground Mobile Food Truck</name>
+<location>
+West 107 to West 108 street and Amsterdam to Columbus Avenues
+</location>
+<park_id>M200</park_id>
+<start_date>2013-03-13</start_date>
+<end_date>2017-12-31</end_date>
+<description>
+This mobile food unit is also authorized to operate at Bloomingdale/Ps145 Playground (West 104-West 105, Amsterdam-Columbus), Frederick Douglass Playground (West 101-West 102 and Amsterdam), and Happy Warrior Playground (West 97-West 98 and Amsterdam)
+</description>
+<permit_number>M200-200A/200/229-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Audubon Playground Mobile Food Truck</name>
+<location>
+West 170 Street between Audubon and St. Nichol avenues
+</location>
+<park_id>M240</park_id>
+<start_date>2010-04-29</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M240-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Highbridge Park Mobile Food Truck</name>
+<location>Amsterdam Avenue and West 172 Street</location>
+<park_id>M037</park_id>
+<start_date>2010-06-16</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M37-2MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Highbridge Park Mobile Food Truck</name>
+<location>Amsterdam Avenue and West 173 Street</location>
+<park_id>M037</park_id>
+<start_date>2010-04-29</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M37-3MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Highbridge Park Mobile Food Truck</name>
+<location>Amsterdam Avenue and West 177 Street</location>
+<park_id>M037</park_id>
+<start_date>2010-04-29</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M37-7MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Highbridge Park Mobile Food Truck</name>
+<location>Amsterdam Avenue and West 180 Street</location>
+<park_id>M037</park_id>
+<start_date>2010-04-29</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M37-8MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Inwood Hill Park Mobile Food Truck</name>
+<location>
+Seaman Avenue and West 204 Street to West 214st Street and Indian Road
+</location>
+<park_id>M042</park_id>
+<start_date>2010-06-16</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>M42/M43-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Juniper Valley Park Mobile Food Truck</name>
+<location>Dry Harbor Road to 70th Street</location>
+<park_id>Q102</park_id>
+<start_date>2010-08-20</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q102-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Crocheron Park Mobile Food Truck</name>
+<location>33rd Avenue and 35th Avenue</location>
+<park_id>Q012</park_id>
+<start_date>2014-06-03</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q12-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>P.S. 10 Playground Mobile Food Truck</name>
+<location>30th Road between 45th and 46th streets</location>
+<park_id>Q014</park_id>
+<start_date>2013-04-19</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q14-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Cunningham Park Mobile Food Truck</name>
+<location>
+73rd Avenue, Frances Lewis Boulevard, and 210th Street
+</location>
+<park_id>Q021</park_id>
+<start_date>2014-08-11</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q21-2-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Grover Cleveland park Mobile Food Truck</name>
+<location>Stanhope Street and Grandview Avenue</location>
+<park_id>Q002</park_id>
+<start_date>2013-05-16</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q2-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Linden Park Mobile Food Truck</name>
+<location>104 Street, between 41 and 42 Avenues</location>
+<park_id>Q026</park_id>
+<start_date>2013-04-04</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q26-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Kissena Corridor Park Mobile Food Truck</name>
+<location>Utopia Parkway near Lie and Underhill roads</location>
+<park_id>Q300</park_id>
+<start_date>2013-03-15</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q300-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Thomas J. Travers Playground Mobile Food Truck</name>
+<location>34th Avenue between 77 and 78 streets</location>
+<park_id>Q303</park_id>
+<start_date>2013-04-29</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q303-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>PS 176 Playground Mobile Food Truck</name>
+<location>236th Street and 121st Avenue</location>
+<park_id>Q307</park_id>
+<start_date>2014-04-07</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q307-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>PS 173 Playground Mobile Food Truck</name>
+<location>
+Fresh Meadows playground at 67th Avenue and 173rd Street
+</location>
+<park_id>Q314</park_id>
+<start_date>2011-01-01</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q314-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Vleigh Place Playground Mobile Food Truck</name>
+<location>Vleigh Place and 141 Street</location>
+<park_id>Q336</park_id>
+<start_date>2010-08-12</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q336-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Frederick Cabbell Park Mobile Food Truck</name>
+<location>236th Stret and 121st Avenue</location>
+<park_id>Q339</park_id>
+<start_date>2014-04-07</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q339-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Colden Playground Mobile Food Truck</name>
+<location>
+Union Street and 31st Road (31st Road Side), or 31st Drive (west of the park entrance)
+</location>
+<park_id>Q347</park_id>
+<start_date>2013-03-25</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q347-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>PS 127 Elmhurst Playground Mobile Food Truck</name>
+<location>27th Avenue</location>
+<park_id>Q373</park_id>
+<start_date>2013-02-26</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q373-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>JHS 93/Ridgewood Playground</name>
+<location>Woodward Ave., Woodbine St., and Fairview Ave</location>
+<park_id>Q398</park_id>
+<start_date>2009-06-15</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>Q398-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Astoria Park Mobile Food Truck</name>
+<location>Shore Blvd., Hoyt Ave. and Ditmars Blvd</location>
+<park_id>Q004</park_id>
+<start_date>2014-07-14</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q4-1-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Astoria Park Mobile Food Truck</name>
+<location>At the parking lot at Hoyt Ave</location>
+<park_id>Q004</park_id>
+<start_date>2014-06-20</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q4-2-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>East Springfield Playground Mobile Food Truck</name>
+<location>121st Avenue and 237 Street</location>
+<park_id>Q404</park_id>
+<start_date>2014-04-17</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q404-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Lt. Corp. Noonan Park Mobile Food Truck</name>
+<location>43rd Street and 47th Avenue</location>
+<park_id>Q044</park_id>
+<start_date>2011-05-25</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q44-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Triborough Bridge Playground Mobile Food Truck</name>
+<location>Perimeter of Park Hoyt Avenue North to South</location>
+<park_id>Q066B</park_id>
+<start_date>2013-03-08</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q66-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Gorman Playground Mobile Food Truck</name>
+<location>84th Street Between 25th Avenue and 30th Avenue</location>
+<park_id>Q085</park_id>
+<start_date>2010-09-22</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q85-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Edward Byrne Park Mobile Food Truck</name>
+<location>135th Avenue, 131st and 132nd streets</location>
+<park_id>Q092</park_id>
+<start_date>2010-09-21</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q92-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Mobile Food Truck</name>
+<location>Near Unisphere, along the pathway</location>
+<park_id>Q099</park_id>
+<start_date>2014-06-26</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>Q99-1-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Mobile Food Truck</name>
+<location>Along the outer pathway of Meadow Lake</location>
+<park_id>Q099</park_id>
+<start_date>2011-01-01</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q99-11-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Mobile Food Truck</name>
+<location>Near the Hall of Science</location>
+<park_id>Q099</park_id>
+<start_date>2013-04-02</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q99-HS-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Flushing Meadows Corona Park Mobile Food Truck</name>
+<location>Near South Bridge By Queens Zoo</location>
+<park_id>Q099</park_id>
+<start_date>2013-03-01</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q99-ZMT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>McNeil Park Mobile Food Truck</name>
+<location>Popenhusen Avenue and College Place</location>
+<park_id>Q009</park_id>
+<start_date>2011-03-18</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q9-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Bloomingdale Park Mobile Food Truck</name>
+<location>
+Richmond Parkway, Bloomingdale Road, and Lenevar Avenue
+</location>
+<park_id>R106</park_id>
+<start_date>2015-02-19</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>R106-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Claremont Park Mobile Food Truck</name>
+<location>East 172 Street between Teller and Morris avenues</location>
+<park_id>X008</park_id>
+<start_date>2008-07-14</start_date>
+<end_date>2012-12-31</end_date>
+<description/>
+<permit_number>X008-3MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Slattery Playground Mobile Food Truck</name>
+<location>North corner of Valenti Avenue and East 183 Street</location>
+<park_id>X085</park_id>
+<start_date>2008-05-30</start_date>
+<end_date>2012-12-31</end_date>
+<description/>
+<permit_number>X085-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Woodlawn Memorial Park Mobile Food Truck</name>
+<location>Park Mall near Woodlawn Playground</location>
+<park_id>X096</park_id>
+<start_date>2008-10-27</start_date>
+<end_date>2012-12-31</end_date>
+<description/>
+<permit_number>X096-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Sound View Park Mobile Food Truck</name>
+<location>Southwest corner of Metcalf and Lafayette avenues</location>
+<park_id>X118</park_id>
+<start_date>2013-03-14</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X118-2MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Sound View Park Mobile Food Truck</name>
+<location>Morrisonand Lafayette avenues</location>
+<park_id>X118</park_id>
+<start_date>2010-08-27</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X118-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Sound View Park Mobile Food Truck</name>
+<location>
+Lafayette Ave., btwn. Boynton Ave. and Colgate Ave.
+</location>
+<park_id>X118</park_id>
+<start_date>2009-06-11</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>X118-(4)MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Waterbury Playground Mobile Food Truck</name>
+<location>Bradford, Edison, Lasalle and Waterbury avenues</location>
+<park_id>X121</park_id>
+<start_date>2010-06-03</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X121-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Devoe Park Mobile Food Truck</name>
+<location>West Fordham Road and University Avenue</location>
+<park_id>X013</park_id>
+<start_date>2013-06-04</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X13-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Vinmont Veteran Park Mobile Food Truck</name>
+<location>
+254th Street to 256th Street and Mosholu Avenue to Riverdale
+</location>
+<park_id>X152</park_id>
+<start_date>2010-10-15</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X152-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Bronx River Houses Playground Mobile Food Truck</name>
+<location>Entrance at E. 174th Street, Bronx River Ave.</location>
+<park_id>X159</park_id>
+<start_date>2009-09-11</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>X159-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>P.S. 106 Playground Mobile Food Truck</name>
+<location>St. Raymond Avenue between O'dell and Purdy streets</location>
+<park_id>X160</park_id>
+<start_date>2010-07-02</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X160-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Alfred Loreto Park Mobile Food Truck</name>
+<location>Van Nest Avenue between Tomilson and Haight streets</location>
+<park_id>X163</park_id>
+<start_date>2013-05-01</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X163-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Matthew and Muliner Playground Mobile Food Truck</name>
+<location>Either Matthews Avenue or Muliner Avenue, Parkside</location>
+<park_id>X178</park_id>
+<start_date>2008-09-02</start_date>
+<end_date>2012-12-31</end_date>
+<description/>
+<permit_number>X178-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Haffen Park Mobile Food Truck</name>
+<location>Burk, Ely and Gunter Avenues</location>
+<park_id>X196</park_id>
+<start_date>2013-06-07</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X196-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Bronx Park Mobile Food Truck</name>
+<location>Between Gun Hill Rd. and Waring Ave.</location>
+<park_id>X002</park_id>
+<start_date>2009-10-30</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>X2-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Bronx Park East Mobile Food Truck</name>
+<location>Between Brady and Lydig Avenues</location>
+<park_id>X002</park_id>
+<start_date>2010-07-02</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X2(3)-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Seton Park Mobile Food Truck</name>
+<location>West 235th Street and Independence Avenue</location>
+<park_id>X201</park_id>
+<start_date>2013-05-23</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X201-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Marble Hill Playground Mobile Food Truck</name>
+<location>West 230 Street and Kingsbridge</location>
+<park_id>X202</park_id>
+<start_date>2009-01-01</start_date>
+<end_date>2012-12-31</end_date>
+<description/>
+<permit_number>X202-C/MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Arcilla JHS 145 Playground Mobile Food Truck</name>
+<location>Teller Avenue and 164 Street</location>
+<park_id>X219</park_id>
+<start_date>2010-08-27</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X219-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Space Time Playground Mobile Food Truck</name>
+<location>Lafayette Ave. and Bolton Ave.</location>
+<park_id>X221</park_id>
+<start_date>2009-06-11</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>X221-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Mapes Avenue Ballfields Mobile Food Truck</name>
+<location>Prospect Avenue, E. 181st Street</location>
+<park_id>X289</park_id>
+<start_date>2009-07-01</start_date>
+<end_date>2012-12-07</end_date>
+<description/>
+<permit_number>X289-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Barretto Point Park Mobile Food Truck</name>
+<location>Tiffany Street, Viele Avenue, and the East River</location>
+<park_id>X307</park_id>
+<start_date>2009-05-22</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>X307-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Pelham Bay Park Mobile Food Truck</name>
+<location>Rice Stadium Place</location>
+<park_id>X039</park_id>
+<start_date>2010-10-01</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X39(1)-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Pelham Bay Park Mobile Food Truck</name>
+<location>Bruckner Boulevard and Hutch Parkway</location>
+<park_id>X039</park_id>
+<start_date>2010-06-03</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X39(3)-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Pelham Bay Park Mobile Food Truck</name>
+<location>
+Next to baseball field located along Middletown Road
+</location>
+<park_id>X039</park_id>
+<start_date>2013-05-16</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X39-(4)MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Pelham Bay Park Mobile Food Truck</name>
+<location>Rodman's Neck Parking Lot</location>
+<park_id>X039</park_id>
+<start_date>2010-03-09</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X39-3-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Claremont Park Mobile Food Truck</name>
+<location>Mount Eden Pkwy, Morris and Eastburn Aves.</location>
+<park_id>X008</park_id>
+<start_date>2009-12-03</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>X8-(2)MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>L. Zimmerman Playground Mobile Food Truck</name>
+<location>
+3 Playgrounds on Olinville Avenue, Zimmerman Playground
+</location>
+<park_id>X087</park_id>
+<start_date>2009-10-30</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>X87-162-214-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Van Cortlandt Park Mobile Food Truck</name>
+<location>
+Mosholu Parkway South and North Between Van Cortlandt
+</location>
+<park_id>X092</park_id>
+<start_date>2010-07-06</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X92-10-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Cunningham Park Mobile Food Truck</name>
+<location>F. Lewis Blvd., Union Turnpike and 193rd St.</location>
+<park_id>Q021</park_id>
+<start_date>2009-12-30</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>Q21-1-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Hickman Playground Mobile Food Truck</name>
+<location>Veteran's Ave. between E. 66th and E. 68th Streets</location>
+<park_id>B330</park_id>
+<start_date>2009-05-13</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>B330-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Gunn Hill Houses Playground Mobile Food Truck</name>
+<location>
+Southwest corner of Magenta Street and Holland Ave.
+</location>
+<park_id>Q358</park_id>
+<start_date>2010-04-02</start_date>
+<end_date>2012-12-31</end_date>
+<description/>
+<permit_number>X161-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Peace Park/Cleopatra Plgd Mobile Food Truck</name>
+<location>
+Peace Park/Cleopatra Plgd: Clay Ave., and Cross Bronx Service Rd
+</location>
+<park_id>X148E</park_id>
+<start_date>2010-05-07</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X148E-258-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Webster Avenue Community Plgd. Mobile Food Truck</name>
+<location>
+Webster Avenue Community Plgd. And Webster Memorial Plgd.: Park Ave. and 183rd St.; Park Ave. and 188th St.
+</location>
+<park_id>X174</park_id>
+<start_date>2010-05-07</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X302-174-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Athens Square Park Mobile Food Truck</name>
+<location>30th St. and 30th Ave.</location>
+<park_id>Q436</park_id>
+<start_date>2010-05-28</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>Q436-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Castle Hill Playground Mobile Food Truck</name>
+<location>Olmstead, Turnbull, Castle Hill, Lafayette Aves</location>
+<park_id>X177</park_id>
+<start_date>2010-06-17</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X151-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Owls Head Park Mobile Food Truck</name>
+<location>Colonial Road between 67th and 68th Streets</location>
+<park_id>B066</park_id>
+<start_date>2010-06-30</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>B66-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Kissena Park Mobile Food Truck</name>
+<location>164th St. and Booth Memorial Ave.</location>
+<park_id>Q024</park_id>
+<start_date>2010-08-26</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q24-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Utopia Playground Mobile Food Truck</name>
+<location>177th St. and 73rd Ave.</location>
+<park_id>Q294</park_id>
+<start_date>2010-08-26</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q294-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Clawson Playground Mobile Food Truck</name>
+<location>Clawson St. and Adelaide Av.</location>
+<park_id>R072</park_id>
+<start_date>2010-08-25</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>R72-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>People's Park Mobile Food Truck</name>
+<location>
+People's Park: Brook Ave, St Anns Ave, E 141 St; PS18 and Paterson Houses Plgd.: Morris Ave, E 148 St, College Ave, E 145 St; JHS149 Plgd.: 3 Ave, E 144 To E 145 Sts; Willis Plgd.; E 139 St, E 140 St, Willis and Alexander Aves
+</location>
+<park_id>X103</park_id>
+<start_date>2010-08-26</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X103-155-200-217-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Kelly Playground Mobile Food Truck</name>
+<location>
+Kelly Plgd./St. MaryÂandeuro;andtrade;s Houses Plgd./PS5 Plgd./John Adams Plgd./PS161 Plgd./PS157 Plgd.
+</location>
+<park_id>M066</park_id>
+<start_date>2010-08-26</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X179-194-207-216-233-235-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Socrates Sculpture Park Mobile Food Truck</name>
+<location>Vernon Blvd. and Broadway</location>
+<park_id>Q465</park_id>
+<start_date>2011-01-01</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q465-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Louis C. Moser Park Mobile Food Truck</name>
+<location>25th Ave. and 76th St.</location>
+<park_id>Q366</park_id>
+<start_date>2010-09-22</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q366-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Joseph Austin Playground Mobile Food Truck</name>
+<location>84th Ave. and 164 Pl.</location>
+<park_id>Q391</park_id>
+<start_date>2010-09-13</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q391-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Marine Park Mobile Truck</name>
+<location>Madison and Filmore Aves.</location>
+<park_id>B057</park_id>
+<start_date>2009-05-15</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>B57-1MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Martin Luther Playground Mobile Truck</name>
+<location>56th Street, in front of hospital</location>
+<park_id>B098</park_id>
+<start_date>2011-08-04</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>B98-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>PAPAZIAN Q3400006, AKOP</name>
+<location>Skillsman Ave. and 43rd St.</location>
+<park_id>Q340</park_id>
+<start_date>2009-12-30</start_date>
+<end_date>2013-12-31</end_date>
+<description/>
+<permit_number>Q340-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>MONTALI R0790004, JOSEPH</name>
+<location>Seguine Ave. Near Water</location>
+<park_id>R079</park_id>
+<start_date>2008-07-14</start_date>
+<end_date>2012-12-31</end_date>
+<description/>
+<permit_number>R79-BMT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Slattery Playground Mobile Truck</name>
+<location>
+Northwest Corner of East 183rd Street and Valentine Avenue
+</location>
+<park_id>X085</park_id>
+<start_date>2013-04-17</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X85-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Pugsley Park Mobile Food Truck</name>
+<location>Dead End of Soundview Ave.</location>
+<park_id>X088</park_id>
+<start_date>2011-07-22</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>X88-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Watson Park Mobile Truck</name>
+<location>Watson Ave. and Soundview Ave. b/b Fields</location>
+<park_id>X124</park_id>
+<start_date>2011-07-21</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>X124-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Harris Park Mobile Truck</name>
+<location>Main Entrance to Park Next to Park House</location>
+<park_id>X136</park_id>
+<start_date>2011-08-16</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>X136-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Rainey Park Mobile Truck</name>
+<location>Dawson Pl. and Dawson Ave.</location>
+<park_id>Q048</park_id>
+<start_date>2011-08-16</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>X255-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Leo Ehrenreich Playground Mobile Food Trucks</name>
+<location>
+Austin St. Plgd. and Austin St. b/w 76th and 78th sts.
+</location>
+<park_id>Q304</park_id>
+<start_date>2012-02-09</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>Q304-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>St. Michael's Plgd. Mobile Food Truck</name>
+<location>Entrance to 31st Ave. b/w 61 and 68th sts.</location>
+<park_id>Q174A</park_id>
+<start_date>2012-02-09</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>Q174A-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Rufus King Playground Trucks</name>
+<location>Rufus King Park at 153rd St.</location>
+<park_id>Q023-01</park_id>
+<start_date>2012-02-09</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>Q23-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Mccarren Park Mobile Trucks</name>
+<location>Bedford Ave. and 12th</location>
+<park_id>B058</park_id>
+<start_date>2012-04-09</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>B58-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Highbridge Park Mobile Food Truck</name>
+<location>Adjacent to Harlem River Drive</location>
+<park_id>M037</park_id>
+<start_date>2013-03-08</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>M37-4MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Charles Drew Memorial Park Mobile Ice Cream Truck</name>
+<location>Van Wyck Expressway, 116th</location>
+<park_id>Q220C</park_id>
+<start_date>2013-03-15</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q220-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Queensbridge Park Mobile Ice Cream Truck</name>
+<location>Vernon Blvd and 41st Avenue</location>
+<park_id>Q104</park_id>
+<start_date>2013-03-21</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>Q104-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Yellowstone Municipal Playground Mobile Food Truck</name>
+<location>Yellowstone BL and 68th Street</location>
+<park_id>Q425</park_id>
+<start_date>2012-02-09</start_date>
+<end_date>2015-12-31</end_date>
+<description/>
+<permit_number>Q425-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Greenbelt Recreation Center Mobile Food Truck</name>
+<location>Country House Road</location>
+<park_id>R017A</park_id>
+<start_date>2010-08-25</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>R129-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Crotona Park Mobile Food Truck</name>
+<location>Crotona Park East and Charlotte Street</location>
+<park_id>X010</park_id>
+<start_date>2010-06-17</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X10(1)-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Crotona Park Mobile Food Truck</name>
+<location>
+At Entrance to Hill and Dale Playground at East 173rd Street
+</location>
+<park_id>X010</park_id>
+<start_date>2014-04-11</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>X10-(5)MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Crotona Park Mobile Food Truck</name>
+<location>North from Prospect Street to Clinton Street</location>
+<park_id>X010</park_id>
+<start_date>2014-04-11</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>X10-(8)MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Crotona Park Mobile Food Truck</name>
+<location>
+East 173rd Street and Fulton Avenue At Entrance to Pool
+</location>
+<park_id>X010</park_id>
+<start_date>2014-04-11</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>X10-(P)MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Van Cortlandt Park Mobile Food Truck</name>
+<location>Broadway Between West 240 and West 263rd Street</location>
+<park_id>X092</park_id>
+<start_date>2014-08-28</start_date>
+<end_date>2018-12-31</end_date>
+<description/>
+<permit_number>X92-1-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Van Cortlandt Park Mobile Food Truck</name>
+<location>West Gun Hill Road and Jerome Avenue</location>
+<park_id>X092</park_id>
+<start_date>2013-05-01</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X92-J-MT</permit_number>
+<phone/>
+<website/>
+<type_name>Mobile Food Truck</type_name>
+</facility>
+<facility>
+<name>Loeb Boathouse Restaurant</name>
+<location>East 72nd Street and Park Drive North</location>
+<park_id>M010</park_id>
+<start_date>2000-10-01</start_date>
+<end_date>2021-10-31</end_date>
+<description>
+At the Leob Boathouse in Central Park visitors can enjoy a meal in any season on the deck overlooking the Lake. More informal snacks are available on the outside terrace across from the bicycle rental concession, and a quick service concession as well. Catering is also available year round for special events of all kinds: breakfast conferences, fundraisers, corporate barbecues, holiday dinner dances and weddings. At The Boathouse you can rent bicycles, rowboats, or take a ride in an authentic Venetian gondola.
+</description>
+<permit_number>M10-(14)-BR,SB,R</permit_number>
+<phone>(212) 517-2233</phone>
+<website>http://www.thecentralparkboathouse.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>Tavern on the Green</name>
+<location>Central Park West and West 67th Street</location>
+<park_id>M010</park_id>
+<start_date>2014-04-24</start_date>
+<end_date>2024-04-23</end_date>
+<description>
+The Sheepfold in Central Park, constructed in the latter half of the 19th century at the same time as the Tweed Courthouse on Chambers Street (now home to the New York City Department of Education) is one of the City's finest examples of Victorian Gothic architecture and one of the Park's most treasured landmarked buildings. Presently a restaurant named Tavern on the Green, the building is the best surviving work of the British architect and ornamentalist, Jacob Wrey Mould (1825-1886).<BR></BR>
+
+ Mould is also responsible for other Park treasures including the carvings and the Minton tile arcade at Bethesda Terrace, the pavilions at Belvedere Castle, and many of the Park's ornamental bridges, designed in collaboration with Calvert Vaux. <BR></BR>
+
+ Constructed of "the best Colobaugh brick," local granite, and blue and gray Malden stone, the decorative elements of the building's facade are still intact despite twentieth century additions. The original U-shaped building had three elements: the Sheepfold proper (now the open air terrace and glassed-in Crystal Room); the residence of the Keeper and his men; and the open Loggie and their balconies. The northern and southern extremities of the building faced "the Green," which became known, appropriately, as the Sheep Meadow. The present windows, flanked by red granite columns and decorative stone and tilework, may have once been part of the open air structure. The interior and possibly exterior flooring was originally paved with Minton encaustic tiles. Completing the compound, adjacent to the main building were barns and lofts for storage of feed for the sheep. <BR></BR>
+
+ The preliminary sketch for the building was published in the First Annual Report of the Department of Public Parks of 1871. Many construction drawings for the building are in the Municipal Archives of the City of New York. <BR></BR>
+
+ Parks Commissioner Robert Moses converted the Sheepfold (which actually housed 200 South Down sheep that grazed across the street) into a restaurant named Tavern on the Green, which opened to the public on October 20, 1934. New Yorkers quickly embraced this new eatery and it soon became an integral part of the City's social life. From the late 1930s until 1943, the restaurant was closed and the building was used as the headquarters for the Civilian Patrol Corps. The restaurant reopened in 1943 under new management and was renovated into a year-round facility. By the 1950s, the structure was showing some wear and tear and underwent a further renovation by the designer Raymond Loewy. At that time the restaurant had been expanded to serve more than 1,200 diners and the number of parking spaces was doubled. A succession of management companies operated the restaurant until well-known New York restaurateur Warner LeRoy acquired the license in 1973. The revitalized restaurant became a popular destination for tourists and New Yorkers alike. <BR></BR>
+</description>
+<permit_number>M10(34)-R</permit_number>
+<phone>212-877-8684</phone>
+<website>http://tavernonthegreen.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>New Leaf Cafe</name>
+<location>1 Margaret Corbin Drive</location>
+<park_id>M029</park_id>
+<start_date>2007-10-01</start_date>
+<end_date>2019-09-30</end_date>
+<description>
+New Leaf is open year-round serving locally-sourced, modern American fare and hosting weddings, parties, and other private events. Just steps from The Cloisters museum and gardens, surrounded by majestic trees, the 1930’s cottage and outdoor patio offer a one-of-a-kind experience for locals and tourists alike. Whether you are at New Leaf for a meal in the main dining room, an event on the garden patio, or cocktails in the tavern room, the tranquil setting is a delightful reprieve from urban living.
+</description>
+<permit_number>M29-R</permit_number>
+<phone/>
+<website>http://www.newleafrestaurant.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>West 79th Street Boat Basin Cafe</name>
+<location>Rotunda at the West 79 Street Marina</location>
+<park_id>M071</park_id>
+<start_date>2010-03-20</start_date>
+<end_date>2017-03-19</end_date>
+<description>
+The Boat Basin Cafe is a casual outdoor restaurant, arranged in three sections and located in Riverside Park at the end of 79th Street on the Hudson River. There is an open air patio that overlooks the Marina and the Hudson River with breathtaking views of the sunsets over New Jersey. The covered Rotunda section in the middle of the restaurant has limestone arches overlooking the open air patio. All BBQ Grill parties are held underneath this covered area. Catering and private events are available. The last section is our circular open air area where most of our bar parties are held, weather permitting. The restaurant is open as early as late March and extends through the end of October. This is all weather permitting. There is boat docking available for a fee.
+</description>
+<permit_number>M71-(79)-R</permit_number>
+<phone>(212) 496-5542</phone>
+<website>http://www.boatbasincafe.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>Clearview Cafe</name>
+<location>201-10 Cross Island Parkway</location>
+<park_id>Q010</park_id>
+<start_date>2010-06-30</start_date>
+<end_date>2025-06-29</end_date>
+<description>
+The Clearview Cafe, formerly the home of silent film star Rudolph Valentino and Mayor Fiorello LaGuardia, is a fine dining restaurant and banquet hall with breathtaking views of the nearby Throgs Neck Bridge and Little Neck Bay in Queens. With a golf course view, flanked by an elegant patio, garden, and pond, the 170-seat ground floor, red velvet and mahogany-rich hideaway, which includes a bar and grand fireplace. The second floor holds a 230-seat banquet space with floor-to-ceiling windows and offers a behind-the-scenes bridal suite that was once the bedroom of Valentino himself.
+</description>
+<permit_number>Q10-A-R</permit_number>
+<phone>(718) 281 - 2233</phone>
+<website>http://www.veranda-restaurant.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>Terrace on the Park</name>
+<location>52-11 111th Street</location>
+<park_id>Q099</park_id>
+<start_date>1998-06-30</start_date>
+<end_date>2020-03-31</end_date>
+<description>
+Terrace on the park is a full service Event and Catering Facility. The ballroom, fourteen stories high, presents breathtaking views of the New York skyline lit by the setting sun, or a crisp snowfall topping the trees in the park. The kitchen is well versed in preparation of a myriad of ethnic cuisines including southern Italy, contemporary American, and European. The desserts and wedding cake masterpieces are designed and baked on the premises. The private suites on the Ballroom level offer floor-to-ceiling windows, sunken dance floors, and dining rooms with service and amenities that rival a five star hotel. The Penthouse suite features an outdoor reception chapel area in a garden setting. On the well-manicured grounds there is a large gazebo, perfect for photos.
+</description>
+<permit_number>Q99-C-R</permit_number>
+<phone>(718) 592-5000</phone>
+<website>http://www.terraceonthepark.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>World's Fair Marina Restaurant</name>
+<location>1 Worlds Fair Marina</location>
+<park_id>Q099</park_id>
+<start_date>2002-11-06</start_date>
+<end_date>2018-02-28</end_date>
+<description>
+The World's Fair Marina was originally built as an observation deck for the 1964 World's Fair. Today the World's Fair Marina is a restaurant and banquet hall. Located on Flushing Bay and overlooking La Guardia Airport, it is a picturesque location for weddings, to sweet 16's to any corporate event. The World's Fair team handles events from 50 to 500 people. Menu offerings include exotic Indian and continental cuisine.
+</description>
+<permit_number>Q99G-R</permit_number>
+<phone>(718) 898-1200</phone>
+<website>http://www.worldfairmarina.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>South Shore Country Club</name>
+<location>200 Huguenot Avenue</location>
+<park_id>R104</park_id>
+<start_date>2012-12-01</start_date>
+<end_date>2024-01-14</end_date>
+<description>
+South Shore Country Club is located in the heart of Staten Island overlooking the Golf Course. South Shore Country Club is a full service facility with a wide assortment of breakfast, lunch, dinner and bar selections for any event. The banquet staff can assist in arranging any event, from grand to intimate, including weddings, holiday parties, showers, conference, company parties, retreats, incentive dinners and reunions. Whether you are planning an intimate celebration or a luxurious reception you will find the South Shore Country Club's soft decor will present an elegant setting for all your guests.
+</description>
+<permit_number>R104-R</permit_number>
+<phone>718-356-2771</phone>
+<website>http://grandoaksnyc.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>The Vanderbilt at South Beach</name>
+<location>300 Father Capodanno Boulevard</location>
+<park_id>R046</park_id>
+<start_date>2000-11-09</start_date>
+<end_date>2025-05-31</end_date>
+<description>
+If your vision is a seaside wedding ceremony with a sunset cocktail reception, a super sweet sixteen, an extravagant Bat/Bar Mitzvah or even a full banquet on the beach, our specialized event planners will help you make your dream a reality! With dramatic ocean views, relaxing natural acoustics, and truly magnificent vista of the Verrazano Narrows Bridge, our facility is the perfect setting for any occasion you are planning! We take pride in our experience and ability in customizing every event to suit its needs, while making every special occasion memorable! We focus on all the details so you can relax and fully enjoy your event! As you embark on a journey through our website, www.VanderbiltSouthBeach.com, we invite you to discover a new horizon of elegance with a never ending focus on service, quality, and professionalism. Our magnificent oceanfront facility offers customized service and a refined elegance unmatched anywhere in New York!
+</description>
+<permit_number>R46-R</permit_number>
+<phone>(718) 447-0800</phone>
+<website>http://www.vanderbiltsouthbeach.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>The Stone House</name>
+<location>1150 Clove Road</location>
+<park_id>R005</park_id>
+<start_date>2012-05-31</start_date>
+<end_date>2022-05-30</end_date>
+<description>
+The perfect getaway in Clove Lakes Park. Escape the everyday grind and experience their fine dining in this picturesque setting on the lake. Enjoy brunch, lunch, dinner and cocktails. Have your wedding, anniversary, shower or corporate event. The restaurant features a great dining experience on their terrace or waterfront patio.
+</description>
+<permit_number>R5-SB,BR,R</permit_number>
+<phone>(718) 442-3600</phone>
+<website>http://thestonehousesi.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>Dyckman Marina Restaurant</name>
+<location>Dyckman Marina Restaurant</location>
+<park_id>M028</park_id>
+<start_date>2012-04-01</start_date>
+<end_date>2027-03-31</end_date>
+<description/>
+<permit_number>M28-R</permit_number>
+<phone/>
+<website/>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>Battery Gardens Restaurant</name>
+<location>1 Battery Park Plaza</location>
+<park_id>M005</park_id>
+<start_date>2004-01-16</start_date>
+<end_date>2020-01-07</end_date>
+<description/>
+<permit_number>M5-F-R</permit_number>
+<phone>(212) 809-5508</phone>
+<website>http://www.batterygardens.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>Union Square Seasonal Cafe</name>
+<location>Union Square Park</location>
+<park_id>M089</park_id>
+<start_date>2014-04-29</start_date>
+<end_date>2029-04-28</end_date>
+<description/>
+<permit_number>M89-SB-R</permit_number>
+<phone>212-677-7818</phone>
+<website>http://www.mightypienyc.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>Union Square Seasonal Cafe</name>
+<location>Union Square Park</location>
+<park_id>M089</park_id>
+<start_date>2014-04-29</start_date>
+<end_date>2029-04-28</end_date>
+<description/>
+<permit_number>M89-SB-R</permit_number>
+<phone>212-677-7818</phone>
+<website>http://www.thepavilionnyc.com/</website>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>Arthur Kill Road Restaurant</name>
+<location>Arthur Kill Road and Richmond Avenue</location>
+<park_id>R013</park_id>
+<start_date/>
+<end_date/>
+<description/>
+<permit_number>R13-R</permit_number>
+<phone/>
+<website/>
+<type_name>Restaurant</type_name>
+</facility>
+<facility>
+<name>Golden Ring, Inc.</name>
+<location>
+595 Bedford Avenue at the corner of Bedford Avenue and Williamsburg Street
+</location>
+<park_id>B222</park_id>
+<start_date>2011-08-25</start_date>
+<end_date>2019-08-24</end_date>
+<description>
+Situated in the heart of Williamsburg, the concessionaire has been serving up Falafel for years. In addition to falafel, it also offers other specialty Mediterranean dishes, including hummus (ground chickpeas), babaganoush (eggplant dip) and more.
+</description>
+<permit_number>B223-O-A-SB</permit_number>
+<phone>(718) 384-6577</phone>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Conservatory Water Snack Bar</name>
+<location>
+Adjacent to the beautiful Conservatory Waters, between 72nd and 75th streets
+</location>
+<park_id>M010</park_id>
+<start_date>2008-09-18</start_date>
+<end_date>2020-09-17</end_date>
+<description>
+Perched on the south side of Central Park's Conservatory Water, our Snack Shack offers gourmet snacks to park visitors from organic solar-popped popcorn to organic Blue Marble ice cream. Come enjoy one of our delicious snacks as you stroll around this peaceful sailboat pond.
+</description>
+<permit_number>M10(15)-SB</permit_number>
+<phone>(646) 306-3815</phone>
+<website>
+http://www.lepainquotidien.com/store/central-park-conservatory-water/
+</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Mineral Springs Cafe</name>
+<location>
+Between 69th and 70th Streets and between Terrace Drive and Sheep Meadow
+</location>
+<park_id>M010</park_id>
+<start_date>2010-05-14</start_date>
+<end_date>2022-05-13</end_date>
+<description>
+Le Pain Quotidien bakery and communal table serves simple, elegant boulangerie fare - soup, salads, tartines (open-faced sandwiches), breakfast, homemade pastries, and its signature handmade organic bread. A wide selection of breads is baked fresh daily in Le Pain Quotidien's central bakery in New York City and delivered every morning.
+ Special offerings at Le Pain Quotidien Mineral Springs include organic draft beer, organic ice cream, fresh homemade Belgian waffles, take-out baguette sandwiches, pre-packed picnic boxes, and free extended-range Wi-Fi. The location also offers table service in the 30-seat dining room and 100-seat terrace overlooking Sheep Meadow, as well as to-go service from a take-out window.
+ Additionally, the cafe serves as a community gathering place and education center with its Communal Table at Mineral Springs program. Each week it features a new educational program focusing on topics such as sustainability and the environment; eating organic and vegan; organic farming; bread and bread-making; and tastings of sustainably grown wine, olive oil, honey, and other foods.
+</description>
+<permit_number>M10-33-SB</permit_number>
+<phone>646.233.3768</phone>
+<website>http://www.lepainquotidien.com/</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Central Park Conservancy</name>
+<location>Merchants Gate, Columbus Circle</location>
+<park_id>M010</park_id>
+<start_date>2006-10-01</start_date>
+<end_date>2014-09-30</end_date>
+<description/>
+<permit_number>M10-59-SB</permit_number>
+<phone>(212) 226-6150</phone>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Ballfields Cafe</name>
+<location>
+Heckscher Ballfields, south of 65th Street and west of the carousel
+</location>
+<park_id>M010</park_id>
+<start_date>2013-06-01</start_date>
+<end_date>2019-05-31</end_date>
+<description>
+Directly bordering the Heckscher Ballfields in Central Park on its northeast side resides the Ballfields Cafe. Aptly named for its locale, this cafe is frequented by hungry spectators from the ball fields as well as strollers who stop by for a quick meal. This current building replaced an original Ballplayers House at the same site, which stood from 1873 to 1969. This quaint red and cream brick structure with its red-checkered tablecloths and green umbrellas serves up all of its items made to order. Besides the typical "Take me out to the ball game" fare, such as hot dogs and hamburgers, patrons will be pleased to find sandwiches and salads at reasonable prices. While dining outdoors, patrons can watch some of the baseball or softball games in action. Music from the nearby Carousel can be heard as it mingles with the cheers and jeers of the crowds as the crack of a bat hits a ball through the air.
+</description>
+<permit_number>M10-65-SB</permit_number>
+<phone>(212) 874-7454</phone>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>North Meadow Recreation Center Snack Bar</name>
+<location>97th Street Transverse Road, Mid-Park</location>
+<park_id>M010</park_id>
+<start_date>2009-04-29</start_date>
+<end_date>2016-04-28</end_date>
+<description>
+A friendly snack bar located in the North Meadow Recreation Center in Central Park. Menu items include All Beef Sabrett Hot Dogs, Taquito's W/Chicken and Cheese, an array of beverages and sports drinks.
+</description>
+<permit_number>M10-NM-SB</permit_number>
+<phone/>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Arsenal Snack Bar</name>
+<location>Basement of 830 5th Avenue</location>
+<park_id>M010</park_id>
+<start_date>2009-03-17</start_date>
+<end_date>2014-03-16</end_date>
+<description>
+Customers can get fresh breakfast items such as muffins, croissants, and bagels to accompany their cup of morning coffee or can stop by for soup or a sandwich for lunch.
+</description>
+<permit_number>M10-SB</permit_number>
+<phone>(212) 439-6500</phone>
+<website>http://www.centralparkzoo.com</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Dag Hammarskjold Plaza Cafe</name>
+<location>342 East 47th Street</location>
+<park_id>M203C</park_id>
+<start_date>2013-08-21</start_date>
+<end_date>2022-08-20</end_date>
+<description/>
+<permit_number>M203C-SB</permit_number>
+<phone/>
+<website>
+http://hospitalityholdings.com.s168780.gridserver.com/index.php?id=patio
+</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Shake Shack</name>
+<location>
+Southeast corner of Madison Square Park-near Madison Avenue and East 23rd Street
+</location>
+<park_id>M052</park_id>
+<start_date>2004-07-01</start_date>
+<end_date>2013-06-30</end_date>
+<description>
+Shake Shack is a modern day Âandeuro;andoelig;roadside burger standÂandeuro; serving the most delicious burgers, hot dogs, frozen custard, beer and wine from Danny MeyerÂandeuro;andtrade;s Union Square Hospitality Group. Shake ShackÂandeuro;andtrade;s mission is to preserve (and add its spin on) the culinary traditions of classic American burger stands. Using the freshest high quality ingredients, all the food at Shake Shack is cooked to order (from burgers to shakes to everything in between). Since opening in 2004, Shake Shack has become a beloved NYC institution with a cult following.
+</description>
+<permit_number>M52-SB</permit_number>
+<phone>(212) 889-6600</phone>
+<website>http://www.shakeshack.com/</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Ellington In The Park</name>
+<location>105th Street and Riverside Park</location>
+<park_id>M071</park_id>
+<start_date>2015-01-01</start_date>
+<end_date>2023-12-31</end_date>
+<description>
+The bi-level facilities are refreshingly minimalist: a wooden, well-stocked bar and a couple of portable grills. Although the view is of the roaring West Side Highway rather than lapping waves, and shouts can be heard from the nearby baseball games, the cafe manages to conjure a festive, splash-happy mood. Locals-mostly well-groomed young folk and families with small kids-crowd the semi-secluded oasis for hamburgers, sandwiches, salads and fruity concoctions either at the bar or at tables set up in front of it. On the weekends, the cafe serves brunch.
+</description>
+<permit_number>M71(105)-R</permit_number>
+<phone/>
+<website>http://www.ellingtoninthepark.com/</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Pier I Cafe</name>
+<location>West 70 Street near Pier I</location>
+<park_id>M071</park_id>
+<start_date>2007-04-01</start_date>
+<end_date>2022-03-31</end_date>
+<description>
+Pier I Cafe is an outdoor cafe located along the Hudson River, in the newly constructed Riverside Park South. Open air, scenic river views and dramatic sunsets, provide both an escape while adding another dimension to city life. Pier I Cafe offers a casual menu; the ingredients are high quality, fresh food. Whether you order the Pat La Frieda burgers served on buns baked daily or the freshly squeezed blueberry lemonade, you will have a relaxing and pleasurable experience. Start your day sipping a latte or espresso at the coffee bar and end it with a white wine sangria or a thirst-quenching draft beer all while watching the boats go by.
+</description>
+<permit_number>M71-70-SB</permit_number>
+<phone>(212) 362-4450</phone>
+<website>http://www.piericafe.com/</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Rockaway Beach Snack Bars</name>
+<location>
+Beach 86th Street, Beach 97th Street, and Beach 106th Street
+</location>
+<park_id>Q163</park_id>
+<start_date>2012-01-01</start_date>
+<end_date>2019-12-31</end_date>
+<description>
+Rockaway Beach Snack Bars are located on the Rockaway Beach Boardwalk in Queens. Menu items vary by location. The 106th Street Caracas snack bar offers arepas, which are corn flour- pita like rounds filled with a variety of ingredients. The 97th Street location has 8 different counters offering items from burgers, to beachy Korean fair, Italian ices, and lobster rolls. There is also a beach shop at this location where you can purchase clothing, sun tan lotion, and other beach related items. Finally the Beach 86th Street location or the "Rippers" offer breakfast burritos, tortas, burgers, and cold drinks for the hot summer days.
+</description>
+<permit_number>Q163-SB</permit_number>
+<phone/>
+<website>http://www.caracasarepabar.com/rockaway.php</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Astoria Pool Snack Bar</name>
+<location>Astoria Pool</location>
+<park_id>Q004</park_id>
+<start_date>2012-07-06</start_date>
+<end_date>2020-09-06</end_date>
+<description/>
+<permit_number>Q4-SB</permit_number>
+<phone/>
+<website>https://surfshackny.wix.com/surfshack</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Ederle Terrace Snack Bar</name>
+<location>
+Ederle Terrace, 61-30 Van Wyck Expressway, overlooking Meadow Lake
+</location>
+<park_id>Q099</park_id>
+<start_date>2014-07-26</start_date>
+<end_date>2025-07-25</end_date>
+<description/>
+<permit_number>Q99(2)-SB</permit_number>
+<phone/>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Olmsted Cafeteria</name>
+<location>Olmsted Center</location>
+<park_id>Q099</park_id>
+<start_date>2011-10-18</start_date>
+<end_date>2016-10-17</end_date>
+<description/>
+<permit_number>Q99-J-SB</permit_number>
+<phone/>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Rodman's Neck Snack Bar</name>
+<location>The NYC Police Academy, Rodman</location>
+<park_id>X039</park_id>
+<start_date>2014-09-16</start_date>
+<end_date>2020-09-15</end_date>
+<description>
+Rodman's Neck Snack Bar is a friendly snack bar located in the NYC Police Academy firing range at the training facility in Pelham Bay Park, Bronx.
+</description>
+<permit_number>X039-VM-SB</permit_number>
+<phone/>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Orchard Beach Snack Bar</name>
+<location>3 Locations along the beach</location>
+<park_id>X039</park_id>
+<start_date>2012-05-04</start_date>
+<end_date>2020-05-13</end_date>
+<description>
+A friendly snack bar located in the Orchard Beach Park. Menu items include Hamburgers, hot dogs, chicken sandwiches, fried chicken, shish kabobs, fries, onion rings, nachos, wings, slushes, soda.
+</description>
+<permit_number>X39-C-BW-SB</permit_number>
+<phone>(718) 518-1800</phone>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Dunkin' Donuts</name>
+<location>1320 Hutchinson River Parkway</location>
+<park_id>X101</park_id>
+<start_date>2005-03-18</start_date>
+<end_date>2020-03-17</end_date>
+<description>
+Dunkin' Donuts provides customers with high quality coffee, bagels, donuts and other baked goods.
+</description>
+<permit_number>X101-O-R</permit_number>
+<phone>(718) 863-8692</phone>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Wendy's</name>
+<location>19 West 170th Street</location>
+<park_id>X058</park_id>
+<start_date>2005-11-01</start_date>
+<end_date>2020-10-31</end_date>
+<description>
+Wendy's in Keltch Memorial Park is located on 170th Street and Jerome Avenue.
+ Wendy's menu consists primarily of hamburgers, chicken sandwiches, French fries and beverages, including the Frosty. Wendy's is known for its square ground beef hamburgers and the Frosty, a very thick milkshake. Wendy's offers breakfast, lunch, and dinner.
+</description>
+<permit_number>X58-R</permit_number>
+<phone>(718) 681-0483</phone>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Crossroads To Go</name>
+<location>Joralemon Street between Adams and Court</location>
+<park_id>B113C</park_id>
+<start_date>2008-01-01</start_date>
+<end_date>2016-12-31</end_date>
+<description>
+Crossroads To Go opened in 2008 following extensive renovations which transformed the old shoe shine stand on Joralemon Street into a bustling outdoor cafe. Customers can get freshly made breakfast offerings such as an egg sandwich on a ciabatta roll to accompanytheir cup of morning coffee or can stop by for a sandwich, soup, or healthy salad for lunch.
+</description>
+<permit_number>B9-SB</permit_number>
+<phone>(718) 972-1852</phone>
+<website>http://www.cafe-crossroads.com</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Harlem Meer Snack Bar</name>
+<location>Harlem Meer</location>
+<park_id>M039</park_id>
+<start_date>2012-04-01</start_date>
+<end_date>2020-03-31</end_date>
+<description>
+For over 20 years, Maoz have been continuously working to offer the best tasting nutritious meals and falafel to their customers. With more than 15 signature salads and sauces made with the finest ingredients from local farmers and purveyors, we are always on the lookout for the best quality ingredients available.
+</description>
+<permit_number>M10-64-SB</permit_number>
+<phone/>
+<website>http://www.maozusa.com/restaurants/locations/nyc</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>First Park Outdoor Cafe</name>
+<location>Between East Houston Street and East First Street</location>
+<park_id>M124</park_id>
+<start_date>2011-11-07</start_date>
+<end_date>2024-03-07</end_date>
+<description/>
+<permit_number>M124-SB</permit_number>
+<phone>( 212) 529-8766</phone>
+<website>http://www.onmud.com/pages/mudpark</website>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Peter Minuit Snack Bar</name>
+<location>Pavilion</location>
+<park_id>M005</park_id>
+<start_date>2011-02-24</start_date>
+<end_date>2017-02-25</end_date>
+<description/>
+<permit_number>M5-PM-SB</permit_number>
+<phone/>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Battery Park Snack Bar</name>
+<location>Battery Park</location>
+<park_id>M005</park_id>
+<start_date>2006-06-01</start_date>
+<end_date>2015-05-31</end_date>
+<description/>
+<permit_number>M5-SB</permit_number>
+<phone/>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>Dredsurfer LLC</name>
+<location>Beach 17th Street</location>
+<park_id>Q162</park_id>
+<start_date>2014-01-01</start_date>
+<end_date>2022-12-31</end_date>
+<description>
+The DreadSurfer snack bar began operations in 2014. The menu offers smoothies and standard fair such as hot dogs, hamburgers, and french fries. The DreadSurfer also offers specialty items such as crab legs, salmon burgers and Caribbean specialties like jerk chicken, curry goat, and oxtail. There is seating available right on the boardwalk where you can enjoy great views while enjoying a glass of wine or beer.
+</description>
+<permit_number>Q162-2-SB</permit_number>
+<phone/>
+<website/>
+<type_name>Snack Bar</type_name>
+</facility>
+<facility>
+<name>NY Dosas</name>
+<location>North side of Washington Square at Sullivan Street</location>
+<park_id>M098</park_id>
+<start_date>2013-09-18</start_date>
+<end_date>2018-09-17</end_date>
+<description>
+The NY Dosas specialty cart, owned and operated by Thiru Kandasamy, known locally as "the Dosa Guy," serves up traditional Indian vegan fare near the corner of Sullivan Street and Washington Square South in Washington Square Park. NY Dosas' menu includes such specialties as uthappam, samosas dosas, and vegan drumsticks. Mr. Kandasamy's cart has been a critic's pick in the New York Magazine Restaurant Guide, and in 2007, he was the recipient of the coveted Vendy Award.
+</description>
+<permit_number>M98-EC-CG</permit_number>
+<phone>(917) 710-2092</phone>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Otto Enoteca Pizzeria Gelato Cart</name>
+<location>
+Inside the northwest entrance, Washington Square North and Washington Square West
+</location>
+<park_id>M098</park_id>
+<start_date>2010-04-01</start_date>
+<end_date>2015-03-31</end_date>
+<description>
+A satellite of Mario Batali and Joe Bastianich's popular Otto Enoteca Pizzeria, the gelato cart in the northwest corner of Washington Square Park serves up a chef's selection of homemade artisanal gelato and sorbetti. Patrons can choose from gelato flavors such as olive oil, creme fraiche, vanilla, caramel, dark chocolate, coconut, strawberry, roasted fennel, meyer lemon, blackberry swirl, hazelnut stracciatella, and milk chocolate chip and sorbetti flavors such as grapefruit campari, lemon, and mango.
+</description>
+<permit_number>M98-CG</permit_number>
+<phone>(212) 995-9559</phone>
+<website>http://www.ottopizzeria.com/</website>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>B.W.H. Trading Cart</name>
+<location>
+Pelham Parkway South, between Wilson Avenue and Eastchester Road
+</location>
+<park_id>X003</park_id>
+<start_date>2010-07-01</start_date>
+<end_date>2015-06-30</end_date>
+<description/>
+<permit_number>X3(2)-CG</permit_number>
+<phone/>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>People's Choice Mobile Kitchen</name>
+<location>
+Pelham Parkway South, between Wilson Avenue and Eastchester Road
+</location>
+<park_id>X003</park_id>
+<start_date>2010-08-05</start_date>
+<end_date>2015-08-04</end_date>
+<description/>
+<permit_number>X3-CG</permit_number>
+<phone/>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Wafels and Dinges</name>
+<location>Great Lawn, east of the Delacorte Theater</location>
+<park_id>M010</park_id>
+<start_date>2011-05-01</start_date>
+<end_date>2016-04-30</end_date>
+<description>
+Wafels and Dinges is renowned for their authentic, light and crisp Belgian liege waffles, which include ingredients brought directly from Belgium. In 2009, they were awarded the coveted Vendy Award for Best Mobile Dessert Vendor and emerged victorious from an episode of Throwdown with Bobby Flay.
+</description>
+<permit_number>M10-W81-GL-CG</permit_number>
+<phone>1-866-429-7329</phone>
+<website>http://www.wafelsanddinges.com/</website>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>El Olomega Red Hook Salvadoran Pupusa</name>
+<location>At the intersection of Bay Street and Henry Street</location>
+<park_id>B126</park_id>
+<start_date>2011-01-01</start_date>
+<end_date>2015-12-31</end_date>
+<description>
+A fixture of Red Hook Park for over 20 years, El Olomega has been celebrating the art of gathering every weekend, serving pupusas from the end of April to late October. El Olomega specializes in authentic Salvadorian cuisine, including their signature "pupusas", a thick, hand-made corn tortilla filled with a blend of cheese, pork, squash, or beans as well as authentic Salvadoran beverages and sides.
+</description>
+<permit_number>B126-CG</permit_number>
+<phone/>
+<website>http://www.elolomega.com/</website>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>El Olomega Red Hook Salvadoran Pupusa</name>
+<location>At the intersection of Bay Street and Henry Street</location>
+<park_id>B126</park_id>
+<start_date>2011-01-01</start_date>
+<end_date>2015-12-31</end_date>
+<description>
+A fixture of Red Hook Park for over 20 years, El Olomega has been celebrating the art of gathering every weekend, serving pupusas from the end of April to late October. El Olomega specializes in authentic Salvadorian cuisine, including their signature "pupusas", a thick, hand-made corn tortilla filled with a blend of cheese, pork, squash, or beans as well as authentic Salvadoran beverages and sides.
+</description>
+<permit_number>B126-CG</permit_number>
+<phone/>
+<website>www.twitter.com/elolomega</website>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Wafels and Dinges</name>
+<location>West of the Scholar's Gate entrance at 60th Street</location>
+<park_id>M010</park_id>
+<start_date>2010-10-01</start_date>
+<end_date>2015-09-30</end_date>
+<description>
+Wafels and Dinges is renowned for their authentic, light and crisp Belgian liege waffles, which include ingredients brought directly from Belgium. In 2009, they were awarded the coveted Vendy Award for Best Mobile Dessert Vendor and emerged victorious from an episode of Throwdown with Bobby Flay.
+</description>
+<permit_number>M10-9-CG</permit_number>
+<phone>1-866-429-7329</phone>
+<website>http://www.wafelsanddinges.com/</website>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Calexico Carne Asada</name>
+<location>
+Within roadbed parkway on west side of Broadway just below 25th St, facing Worth Square
+</location>
+<park_id>M101</park_id>
+<start_date>2011-04-01</start_date>
+<end_date>2016-03-31</end_date>
+<description>
+Calexico Carne Asada combines Mexican and American Southern barbecue flavors. In 2010, their restaurant was named the Best New Mexican Restaurant in Time Out New York, and in 2008, their cart won the coveted Vendy Award. CalexicoÂandeuro;andtrade;s specialties include favorites such as tacos, burritos, and quesadillas.
+</description>
+<permit_number>M101-CG</permit_number>
+<phone/>
+<website>http://www.calexicocart.com</website>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Wafels and Dinges</name>
+<location>
+b/w Columbus Avenue and Broadway, W65th and W66th Streets
+</location>
+<park_id>M051</park_id>
+<start_date>2011-09-30</start_date>
+<end_date>2016-09-29</end_date>
+<description/>
+<permit_number>M51-CG</permit_number>
+<phone/>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Wafels and Dinges</name>
+<location>Verdi Square, between 72 and 73 Streets</location>
+<park_id>M097</park_id>
+<start_date>2011-06-19</start_date>
+<end_date>2016-06-18</end_date>
+<description/>
+<permit_number>M97-CG</permit_number>
+<phone/>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Je and Jo Comestible Specialty Food Cart</name>
+<location>Hudson Street and W. 11st Street</location>
+<park_id>M251</park_id>
+<start_date>2011-09-29</start_date>
+<end_date>2016-09-28</end_date>
+<description/>
+<permit_number>M251-CG</permit_number>
+<phone/>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Soho Square Gourmet Carts</name>
+<location>Spring St. and Ave. of the Americas</location>
+<park_id>B049</park_id>
+<start_date>2012-04-01</start_date>
+<end_date>2017-03-31</end_date>
+<description/>
+<permit_number>MZ02-CG</permit_number>
+<phone/>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Little Red Square Gourmet Carts</name>
+<location>Little Red Sq., Bleeker St. and Ave. of the Americas</location>
+<park_id>MZ06</park_id>
+<start_date>2012-04-24</start_date>
+<end_date>2017-04-23</end_date>
+<description/>
+<permit_number>MZ06-CG</permit_number>
+<phone/>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Adameric Cart</name>
+<location>Western Border of Cobblestone Plaza</location>
+<park_id>M007</park_id>
+<start_date>2013-03-24</start_date>
+<end_date>2018-03-23</end_date>
+<description/>
+<permit_number>M007-CG</permit_number>
+<phone/>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>GROM</name>
+<location>Southwest Corner of East 72 Street and 5th Avenue</location>
+<park_id>M010</park_id>
+<start_date>2012-07-06</start_date>
+<end_date>2017-07-05</end_date>
+<description/>
+<permit_number>M10-E72-CG</permit_number>
+<phone/>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>Wafels and Dinges</name>
+<location>Eastern Plaza of City Hall</location>
+<park_id>M013</park_id>
+<start_date>2012-08-29</start_date>
+<end_date>2017-08-28</end_date>
+<description/>
+<permit_number>M13-CG</permit_number>
+<phone/>
+<website/>
+<type_name>Specialty Cart</type_name>
+</facility>
+<facility>
+<name>CC Moore Homestead Park Fruit and Vegetable Cart</name>
+<location>Broadway, between Elmhurst and Britton Ave.</location>
+<park_id>Q361</park_id>
+<start_date>2010-04-21</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>Q361-GR</permit_number>
+<phone>(212) 879-0244</phone>
+<website/>
+<type_name>Fruit and Vegetable Cart</type_name>
+</facility>
+<facility>
+<name>Hugh Grant Circle Fruit and Vegetable Cart</name>
+<location>
+E. 177 Street, Westchester Avenue, and Virginia Avenue
+</location>
+<park_id>X025</park_id>
+<start_date>2010-05-10</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X25-GR</permit_number>
+<phone/>
+<website/>
+<type_name>Fruit and Vegetable Cart</type_name>
+</facility>
+<facility>
+<name>Owen Dolen Fruit and Vegetable Cart</name>
+<location>E. Tremont Ave., Westchester Ave., and Lane Ave.</location>
+<park_id>X016</park_id>
+<start_date>2011-09-07</start_date>
+<end_date>2014-12-31</end_date>
+<description/>
+<permit_number>X16-GR</permit_number>
+<phone/>
+<website/>
+<type_name>Fruit and Vegetable Cart</type_name>
+</facility>
+<facility>
+<name>McKinley Plaza Fruit and Vegetable Cart</name>
+<location>East 169th Street, Boston Road</location>
+<park_id>B060</park_id>
+<start_date>2013-05-01</start_date>
+<end_date>2017-12-31</end_date>
+<description/>
+<permit_number>X31-GR</permit_number>
+<phone/>
+<website/>
+<type_name>Fruit and Vegetable Cart</type_name>
+</facility>
+</eateries>
