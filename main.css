@@ -1,0 +1,58 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #f0f4f6;
+}
+
+
+::selection {
+  background-color: #fcf113;
+}
+::-moz-selection {
+  background-color: #fcf113;
+}
+
+h1, h3 {
+  margin: 0px;
+}
+
+h3 {
+  color: #a2aeb6;
+  font-weight: 400;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.container {
+  position: relative;
+  background-color: #fff;
+  border-top: 8px solid #fcf113;
+  border-bottom: 3px solid #000;
+  width: 50%;
+  margin: 50px auto;
+  padding: 20px 20px 0;
+}
+
+.desc {
+  position: relative;
+  font-family: 'EB Garamond', serif;
+  margin-bottom: 50px;
+  z-index: 5;
+}
+
+.bg {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  width: 100%;
+  height: 200px;
+  background: url(cityscape.svg) no-repeat top center;
+  background-size: 100%;
+  opacity: .3;
+  z-index: 1;
+}
+
+@media (max-width: 830px) {
+  .container {
+    width: 80%;
+  }
+}
