@@ -36,3 +36,4 @@ node_modules
 *.pyc
 
 bundle.js
+config.js

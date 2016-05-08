@@ -1,11 +1,14 @@
 var React = require('react');
 var FileInput = require('react-file-input');
+var axios = require('axios');
+var config = require('./config');
 
 var App = React.createClass({
   handleChange: function(event) {
     console.log('Selected file:', event.target.files[0]);
   },
-  onPhotoCapture: function(imageBytes) {
+  onPhotoCapture: function(event) {
+    imageBytes = event.target.files[0];
     var accessToken = this.getClarifaiAccessToken();
     var url = 'https://api.clarifai.com/v1/tag';
     var data = {'encoded_image': imageBytes};
@@ -39,9 +42,36 @@ var App = React.createClass({
       'client_secret': clientSecret
     };
     var url = 'https://api.clarifai.com/v1/token';
-    return axios.post(url, data);
+    var self = this;
+    return axios.post(url, data,{
+      'transformRequest': [
+        function() {
+          return self.transformDataToParams(data);
+        }
+      ]
+    }).then(function(r) {
+      console.log(r);
+    },
+    function(err) {
+      console.log(err);
+    });
   },
-
+  transformDataToParams: function(data) {
+    var str = [];
+    for ( var p in data ) {
+      if (data.hasOwnProperty(p) && data[p]) {
+        if (typeof data[p] === 'string'){
+          str.push(encodeURIComponent(p) + '=' + encodeURIComponent(data[p]));
+        }
+        if (typeof data[p] === 'object'){
+          for ( var i in data[p] ) {
+            str.push(encodeURIComponent(p) + '=' + encodeURIComponent(data[p][i]));
+          }
+        }
+      }
+    }
+    return str.join('&');
+  },
   parseClarifaiResponse: function(resp) {
     var tags = [];
     if (resp.status_code === 'OK') {
@@ -64,10 +94,11 @@ var App = React.createClass({
                    accept=".png,.jpg,.gif"
                    placeholder="My Image"
                    className="inputClass"
-                   onChange={this.handleChange} />
+                   onChange={this.onPhotoCapture} />
         </form>
       </div>
     </div>
   }
-})
-React.render(<App />, document.querySelector('#content'))
+});
+
+React.render(<App />, document.querySelector('#content'));
