@@ -3,6 +3,8 @@ var FileInput = require('react-file-input');
 var axios = require('axios');
 var config = require('./config');
 var Info = require('./info');
+var watson = require('watson-developer-cloud');
+var fs = require('fs');
 
 var App = React.createClass({
   getInitialState: function() {
@@ -86,6 +88,25 @@ var App = React.createClass({
     }
     this.setState({dataset:dset});
   },
+
+  textToSpeech: function(words) {
+    var text_to_speech = watson.text_to_speech({
+      username: 'username',
+      password: 'password',
+      version: 'v1'
+    });
+
+    var params = {
+      text: words,
+      voice: 'en-US_AllisonVoice',
+      accept: 'audio/wav'
+    };
+
+    // Pipe the synthesized text to a file
+    // TODO: get this somewhere for the headphones
+    text_to_speech.synthesize(params).pipe(fs.createWriteStream('output.wav'));
+  },
+
   render: function () {
     return <div className="container">
       <h1>moto.host</h1>

@@ -23,7 +23,26 @@ class Landmarks(Resource):
                   "&explaintext&exintro&titles="+'_'.join(landmark['name'].split(' '))+"&redirects=&formatversion=2"
             response = urllib2.urlopen(url)
             data = json.load(response)
+            out = None
             extract = data['query']['pages']
+            print extract[0]['extract']
+            try:
+                extract = data['query']['pages'][0]['extract']
+                out = extract.split('.')[0::3]
+                x = []
+                for l in out:
+                    l = l + '. '
+                    x.append(l.replace("\n", " "))
+                out = ''.join(x)
+                out = remove_text_inside_brackets(out)
+            except:
+                pass
+            if out:
+                return jsonify({"location": landmark["location"],
+                                "name": landmark["name"],
+                                "address": landmark["address"],
+                                "excerpt": out})
+
             return jsonify({"location": landmark["location"],
                             "name": landmark["name"],
                             "address": landmark["address"],
@@ -33,10 +52,27 @@ class Landmarks(Resource):
 
             url = "https://en.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exlimit=1" \
                   "&explaintext&exintro&titles="+'_'.join(landmark['name'].split(' '))+"&redirects=&formatversion=2"
-            print url
             response = urllib2.urlopen(url)
             data = json.load(response)
+            out = None
             extract = data['query']['pages']
+            try:
+                extract = data['query']['pages'][0]['extract']
+                out = extract.split('.')[0::3]
+                x = []
+                for l in out:
+                    l = l + '. '
+                    x.append(l.replace("\n", " "))
+                out = ''.join(x)
+                out = remove_text_inside_brackets(out)
+            except:
+                pass
+            if out:
+                return jsonify({"location": landmark["location"],
+                                "name": landmark["name"],
+                                "address": landmark["address"],
+                                "excerpt": out})
+
             return jsonify({"location": landmark["location"],
                             "name": landmark["name"],
                             "address": landmark["address"],
