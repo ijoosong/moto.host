@@ -15,22 +15,36 @@ import Camera from 'react-native-camera';
 
 class moto extends Component {
 
-  onPhotoCapture() {
+  onPhotoCapture(imageBytes) {
     var accessToken = 'get it';
-    fetch('https://api.clarifai.com/v1/tag', {
-      method: 'POST',
-      headers: {
-        'Authorization': 'Bearer ' + accessToken,
+    var url = 'https://api.clarifai.com/v1/tag';
+    var data = {'encoded_image': imageBytes};
+    return axios.post(url, data, {
+      'headers': {
+        'Authorization': 'Bearer ' + accessToken
       },
-      body: JSON.stringify({url: 'THE IMAGE URL'})
+      'content-type': 'application/x-www-form-urlencoded'
     })
+    .then(function(r){
+      console.log(r);
+    });
+    /*
     .then((response) => response.json())
     .then((responseData) => {
       console.log(
         'Response Body -> ' + JSON.stringify(responseData.body)
-      )
+      );
     })
-    .done();
+    .done();*/
+  }
+
+  takePicture() {
+    console.log("Hello");
+    this.camera.capture()
+      .then((data) => {
+        this.onPhotoCapture(data).bind(this);
+      })
+      .catch(err => console.error(err));
   }
 
   render() {
@@ -49,15 +63,6 @@ class moto extends Component {
         </TouchableOpacity>
       </View>
     );
-  }
-
-  takePicture() {
-    console.log("Hello");
-    this.camera.capture()
-      .then((data) => {
-        console.log(data);
-      })
-      .catch(err => console.error(err));
   }
 }
 
