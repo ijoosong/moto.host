@@ -17,7 +17,7 @@ import Camera from 'react-native-camera';
 class moto extends Component {
 
   onPhotoCapture(imageBytes) {
-    var accessToken = 'get it';
+    var accessToken = this.getClarifaiAccessToken();
     var url = 'https://api.clarifai.com/v1/tag';
     var data = {'encoded_image': imageBytes};
     return axios.post(url, data, {
@@ -40,6 +40,18 @@ class moto extends Component {
       );
     })
     .done();*/
+  }
+
+  getClarifaiAccessToken() {
+    var clientId = config.get('clientId');
+    var clientSecret = config.get('clientSecret');
+    var data = {
+      'grant_type': 'client_credentials',
+      'client_id': clientId,
+      'client_secret': clientSecret
+    };
+    var url = 'https://api.clarifai.com/v1/token';
+    return axios.post(url, data);
   }
 
   takePicture() {
