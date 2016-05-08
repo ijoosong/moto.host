@@ -34,3 +34,5 @@ node_modules
 .idea
 
 *.pyc
+
+bundle.js
